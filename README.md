@@ -1,6 +1,6 @@
-# 60秒で作ってみた
+# 60秒で作ってみた ＆ 1分でわかるPython基礎
 
-YouTube Shorts シリーズ「60秒で作ってみた」で作ったPythonコードの置き場です。
+YouTube Shorts シリーズ「60秒で作ってみた」と「1分でわかるPython基礎」で使ったPythonコードの置き場です。
 どのコードもコピペですぐ動きます。
 
 ## 動かし方
@@ -14,13 +14,21 @@ python 01_janken.py
 
 Python 3 が入っていれば、追加のインストールは不要です。
 
-## エピソード一覧
+## 60秒で作ってみた
 
 | # | 作ったもの | ファイル | 行数 | 学べること |
 |---|---|---|---|---|
 | 01 | じゃんけんゲーム | [01_janken.py](01_janken.py) | 14行 | リスト / 辞書 / input / random / if・elif・else |
 | 02 | 数当てゲーム | [02_kazuate.py](02_kazuate.py) | 13行 | random.randint / while ループ / int() / break |
 | 03 | タイピングゲーム | [03_typing_game.py](03_typing_game.py) | 13行 | time.time() / for ループ / random.shuffle / f文字列 |
+
+## 1分でわかるPython基礎
+
+作品で使った知識を1つずつ解説するシリーズです。
+
+| # | テーマ | ファイル | 使っている作品 |
+|---|---|---|---|
+| 01 | リスト | [basics/01_list.py](basics/01_list.py) | #01 じゃんけん / #03 タイピング |
 
 ## 改造してみよう
 
