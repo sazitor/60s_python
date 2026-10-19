@@ -1,0 +1,9 @@
+# YouTube アップロードの認証情報・記録（絶対に公開しない）
+tools/uploader/client_secret*.json
+tools/uploader/token.json
+tools/uploader/uploaded.json
+
+# 動画ファイル
+*.mp4
+
+__pycache__/
